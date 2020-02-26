@@ -1,0 +1,14 @@
+.list-group a:hover {
+    background: #0795df;
+    color: white;
+    transition: 0.5s;
+}
+
+.list-group a {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.list-group .active {
+    background: #0795df;
+}
